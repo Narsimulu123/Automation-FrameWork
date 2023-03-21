@@ -6,6 +6,7 @@ public class SamplePractice {
 	@Test
 	public void practice() {
 		System.out.println("Sample Practice Created");
+		//pushed
 	}
 
 }
