@@ -7,6 +7,7 @@ public class SamplePractice {
 	public void practice() {
 		System.out.println("Sample Practice Created");
 		//pushed
+		//pulled
 	}
 
 }
